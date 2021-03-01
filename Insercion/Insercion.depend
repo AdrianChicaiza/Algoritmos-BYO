@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614110132 source:c:\users\adrian\downloads\algoritmos\insercion\main.cpp
+	<iostream>
+	<fstream>
+
