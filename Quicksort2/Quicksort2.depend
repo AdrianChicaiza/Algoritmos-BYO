@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1615062706 source:c:\users\adrian\downloads\algoritmos\quicksort2\main.cpp
+	<iostream>
+	"quicksort.h"
+	"ingresar.h"
+
+1615062706 c:\users\adrian\downloads\algoritmos\quicksort2\quicksort.h
+
+1615062706 c:\users\adrian\downloads\algoritmos\quicksort2\ingresar.h
+	<iostream>
+
