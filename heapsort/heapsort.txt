@@ -1,0 +1,4 @@
+Algoritmos de ordenamiento HeapSort
+Cantidad de elementos:  3
+Arreglo original:  |5||4||2|
+Arreglo ordenado:  |2||4||5|
